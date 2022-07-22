@@ -2,16 +2,19 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">
-Hi, Maruf Here...
-</h1>
+<div align=center>
+# Hi There
+</div>
 
 <br>
 
+### 🐼 About Me :
 
-- 🔭 I’m currently working as a Freelance Web Developer @ Fiverr.
-- 🌱 I’m currently learning Full Stack Web Development (MERN).
-- ⚡ Fun fact: I Love to Code, Eat and Sleep.
+It's Me, Maruf Here. I'm a Frontend Web Developer and currently working with HTML, CSS, Bootstrap, Tailwind, SCSS, jQuery, Vanilla.js, PHP, MySQL and some other web development Technologies.  I just love to design website and most of the time I design website templates for my clients (Fiverr). It gives me joy and in my leisure time I love to learn new things regularly.
+
+Till Now, I've completed more than 500 projects and most of them are frontend templates of websites. I have over 100 international clients who are super satisfied with my work and they came back regularly with new and challenging tasks for me.
+
+Currently, I'm learning Fullstack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a full-stack web developer.
 
 
 <br>
@@ -43,8 +46,8 @@ Hi, Maruf Here...
 
 
 ### 🔥 My-Stats :
-![Contribution](https://activity-graph.herokuapp.com/graph?username=marufalaslam&theme=react-dark&hide_border=true&area=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=marufalaslam&theme=react-dark&hide_border=true&area=true) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
