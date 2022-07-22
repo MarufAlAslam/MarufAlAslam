@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 ### Hi there 👋
-It's Me, Maruf Here.
+It's Me, Maruf Here. <br>
 
 
 <!--
