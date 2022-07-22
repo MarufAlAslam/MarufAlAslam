@@ -43,7 +43,7 @@ Hi, Maruf Here...
 
 
 ### 🔥 My-Stats :
-
+![Contribution](https://activity-graph.herokuapp.com/graph?username=marufalaslam&theme=react-dark&hide_border=true&area=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -58,7 +58,6 @@ Hi, Maruf Here...
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-<br><br>
 <hr>
 <br>
 <div id="badges" align="center">
@@ -81,4 +80,5 @@ Hi, Maruf Here...
    <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
    </a>
+   <br>
 </div>
