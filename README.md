@@ -8,11 +8,11 @@
 
 ### 🐼 About Me :
 
-It's Me, Maruf Here. I'm a Frontend Web Developer and currently working with HTML, CSS, Bootstrap, Tailwind, SCSS, jQuery, Vanilla.js, PHP, MySQL and some other web development Technologies.  I just love to design website and most of the time I design website templates for my clients (Fiverr). It gives me joy and in my leisure time I love to learn new things regularly.
+It's Me, Maruf Here. I'm a Full-Stack Web Developer and currently working with HTML, CSS, Bootstrap, Tailwind, React.Js, Node.Js, Express.Js, MongoDB,  SCSS, jQuery, Vanilla.js, PHP, MySQL and some other web development Technologies.  I just love to develop websites and most of the time I design website templates for my clients (Fiverr). It gives me joy and in my leisure time I love to learn new things regularly.
 
 Till Now, I've completed more than 500 projects and most of them are frontend templates of websites. I have over 100 international clients who are super satisfied with my work and they came back regularly with new and challenging tasks for me.
 
-Currently, I'm learning Fullstack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a full-stack web developer.
+Currently, I'm Developing my skill on Fullstack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a full-stack web developer.
 
 
 <br>
@@ -30,6 +30,9 @@ Currently, I'm learning Fullstack web development (MERN) because I'll love to bu
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
