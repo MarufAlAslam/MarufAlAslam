@@ -11,11 +11,11 @@ Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besi
 
 ### 😎 Skillset :
 
-`Comtable:` C, C++, HTML, CSS, JavaScript, ES6, Bootstrap, Tailwind, React.js, Express.js, React Router DOM, Material Ui, Flowbyte, jQuery, CSS Media Query, MongoDB, Firebase
+`Comfortable:` C, C++, HTML, CSS, JavaScript, ES6, Bootstrap, Tailwind, React.js, Express.js, React Router DOM, Daisy Ui, Material Ui, Flowbyte, jQuery, CSS Media Query, MongoDB, Firebase, Mongoose.js
 
-`Familiar with:` Redux, Node.js, Mongoose, PostgreSQL, React Native
+`Familiar with:` Redux, Node.js, React Native
 
-`Tools:` VS code, Git, CLI, Vercel, Browsers, NPM, Chrome Dev Tool, Postman
+`Tools:` VS code, Git, CLI, Vercel, Browsers, NPM, Chrome Dev Tool, Postman, Netlify, Express Generator
 
 
 <hr>
