@@ -2,27 +2,38 @@
   <img style="width: 100%; height: auto;" src="https://i.ibb.co/MRmMrZw/banner.png"/>
 </div>
 
-<h1 align="center">Hi There 👋</h1> 
-
-<br>
+<hr>
 
 ### 🐼 About Me :
 
-It's Me, Maruf Here. I'm a Full-Stack Web Developer and currently working with HTML, CSS, Bootstrap, Tailwind, React.Js, Node.Js, Express.Js, MongoDB,  SCSS, jQuery, Vanilla.js, PHP, MySQL and some other web development Technologies.  I just love to develop websites and most of the time I design website templates for my clients (Fiverr). It gives me joy and in my leisure time I love to learn new things regularly.
-
-Till Now, I've completed more than 500 projects and most of them are frontend templates of websites. I have over 100 international clients who are super satisfied with my work and they came back regularly with new and challenging tasks for me.
-
-Currently, I'm Developing my skill on Fullstack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a full-stack web developer.
+Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besides that, I love to Develope my skill on Fullstack web development (MERN). Other than that, I am a freelance web developer at fiverr where I have over 200+ different clients and more than 500 projects completed.
 
 
-<br>
+### 😎 Skillset :
+
+`Comtable:` C, C++, HTML, CSS, JavaScript, ES6, Bootstrap, Tailwind, React.js, Express.js, React Router DOM, Material Ui, Flowbyte, jQuery, CSS Media Query, MongoDB, Firebase
+
+`Familiar with:` Redux, Node.js, Mongoose, PostgreSQL, React Native
+
+`Tools:` VS code, Git, CLI, Vercel, Browsers, NPM, Chrome Dev Tool, Postman
+
+
+<hr>
+
+### 👨‍💼Experiences:
+
+| No | Job Title | Company Name | Start Date:| End Date | Location |
+| ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
+| 1  | Associate Frontend Developer  | CoreXLab | December, 2022 | Currently Working | Dhaka, Bangladesh |
+| 2  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 3  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwind" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
@@ -34,34 +45,26 @@ Currently, I'm Developing my skill on Fullstack web development (MERN) because I
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="Codepen"  alt="Codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop"  alt="Photoshop" width="40" height="40"/>&nbsp;
   
   
 </div>
+<hr>
+<a href="https://drive.google.com/file/d/1tCJv4RqS9AEcqfw9ypEG7KtiuwoaKc1z/view?usp=drivesdk" style="text-decoration: none"  target="_blank">
+ <img src="https://i.ibb.co/qyPFTYy/dnld.png" style="display:block;margin-top:20px;width:200px;height:auto;" alt="dnld" border="0">
+  </a>
 
-<br>
+<hr>
 
 
 ### 🔥 My-Stats :
-![Contribution](https://activity-graph.herokuapp.com/graph?username=marufalaslam&theme=react-dark&hide_border=true&area=true) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<hr>
 
 ### 🥇 Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&layout=compact&theme=vision-friendly-dark&width=100%)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
-### 😄 Jokes Apart:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <br>
