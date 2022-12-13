@@ -50,7 +50,7 @@ Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besi
   
 </div>
 <hr>
-<a href="https://drive.google.com/file/d/1tCJv4RqS9AEcqfw9ypEG7KtiuwoaKc1z/view?usp=drivesdk" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
  <img src="https://i.ibb.co/qyPFTYy/dnld.png" style="display:block;margin-top:20px;width:200px;height:auto;" alt="dnld" border="0">
   </a>
 
