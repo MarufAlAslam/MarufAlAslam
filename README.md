@@ -62,7 +62,7 @@ Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besi
 <hr>
 
 ### 🔥 My LeetCode Stat :
-![Leetcode Stats](https://leetcard.jacoblin.cool/Maruf42)
+![Leetcode Stats](https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity)
 
 ### 🔥 My GitHub Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
