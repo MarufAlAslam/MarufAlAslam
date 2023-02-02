@@ -24,7 +24,7 @@ Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besi
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Associate Frontend Developer  | CoreXLab | December, 2022 | Currently Working | Dhaka, Bangladesh |
+| 1  | Associate Software Engineer  | CoreXLab | December, 2022 | Currently Working | Dhaka, Bangladesh |
 | 2  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
 | 3  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
