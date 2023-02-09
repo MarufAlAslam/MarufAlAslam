@@ -8,7 +8,7 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as Associate Frontend Developer at CoreXLab Limited. Besides that, I love to Develope my skill on Fullstack web development (MERN). Other than that, I am a freelance web developer at fiverr where I have over 200+ different clients and more than 500 projects completed.
+Currently, I'm working as Associate Software Engineer at CoreXLab Limited. Besides that, I love to Develope my skill on Fullstack web development (MERN). Other than that, I am a Freelance Web Developer at Fiverr where I have over 200+ different clients and more than 500 projects completed.
 
 
 ### 😎 Skillset :
