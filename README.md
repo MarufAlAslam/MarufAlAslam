@@ -73,7 +73,7 @@ Currently, I'm working as Associate Software Engineer at CoreXLab Limited. Besid
 
 ### 🥇 Top Languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 <br>
