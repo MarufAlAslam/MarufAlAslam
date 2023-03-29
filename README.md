@@ -26,7 +26,7 @@ Currently, I'm working as Software Engineer at CoreXLab Limited. Besides that, I
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Engineer L1  | CoreXLab Ltd. | March, 2022 | Currently Working | Dhaka, Bangladesh |
+| 1  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | Currently Working | Dhaka, Bangladesh |
 | 2  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
 | 3  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
 | 4  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
