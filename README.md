@@ -4,7 +4,18 @@
 
 <hr>
 
+
+<div align="center">
+  <a href="https://app.daily.dev/webdevmaruf"><img src="https://api.daily.dev/devcards/824de0776bf04cfa9519c993958acc54.png?r=80e" width="292" alt="Maruf H.'s Dev Card"/></a>
+  <a href="https://leetcode.com/maruf42">
+  <img src="https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity"/>
+  </a>
+</div>
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
+
 
 ### 🐼 About Me :
 
@@ -67,19 +78,16 @@ Tools: `VS code` `Git, GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chro
 
 <hr>
 
-### 🔥 My LeetCode Stat :
-![Leetcode Stats](https://leetcard.jacoblin.cool/maruf42?theme=dark&font=Poppins&ext=activity)
-
 ### 🔥 My GitHub Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marufalaslam&show_icons=true&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="33%" height="100%" alt="Github STat"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufalaslam&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="35%" height="100%" alt="Github STat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true" width="25%" height="100%" alt="Github STat"/>
+</div>
+
 <hr>
 
-### 🥇 Top Languages :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalaslam&exclude_repo=wordpressTest&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
 <br>
 <div id="badges" align="center">
    <a href="https://www.fiverr.com/webdevmaruf" style="text-decoration: none" target="_blank">
