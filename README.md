@@ -8,16 +8,16 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as Software Engineer at CoreXLab Limited. Besides that, I love to Develope my skill on Fullstack web development (MERN). Other than that, I am a Freelance Web Developer at Fiverr where I have over 200+ different clients and more than 500 projects completed.
+Currently, I'm working as Software Engineer at Jadroo E-Commerce Limited. Besides that, I love to Develope my skill on Fullstack web development (MERN). Other than that, I am a Freelance Web Developer at Fiverr where I have over 200+ different clients and more than 500 projects completed.
 
 
 ### 😎 Skillset :
 
-`Comfortable:` C, C++, HTML, CSS, JavaScript, ES6, Bootstrap, Tailwind, React.js, Express.js, React Router DOM, Daisy Ui, Material Ui, Flowbyte, jQuery, CSS Media Query, MongoDB, Firebase, Mongoose.js
+Comfortable: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `Bootstrap` `Tailwind` `React.js` `Express.js` `React Router DOM` `Daisy Ui` `Material Ui` `Styled Components` `Flowbyte` `jQuery` `CSS Media Query` `MongoDB` `Firebase` `Mongoose.js`
 
-`Familiar with:` Redux, Node.js, React Native
+Familiar with: `Redux` `Node.js` `React Native`
 
-`Tools:` VS code, Git, CLI, Vercel, Browsers, NPM, Chrome Dev Tool, Postman, Netlify, Express Generator
+Tools: `VS code` `Git, GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello Board`
 
 
 <hr>
@@ -26,10 +26,13 @@ Currently, I'm working as Software Engineer at CoreXLab Limited. Besides that, I
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | Currently Working | Dhaka, Bangladesh |
-| 2  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
-| 3  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
-| 4  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+| 1  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | Currently Working | Dhaka, Bangladesh |
+| 2  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 3  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
+| 4  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 5  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+
+* RWD = Responsive Web Design
 
 <hr>
 
