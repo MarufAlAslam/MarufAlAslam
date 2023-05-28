@@ -24,7 +24,17 @@ Currently, I'm working as Software Engineer at Jadroo E-Commerce Limited. Beside
 
 ### 😎 Skillset :
 
-Comfortable: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `Bootstrap` `Tailwind` `React.js` `Express.js` `React Router DOM` `Daisy Ui` `Material Ui` `Styled Components` `Flowbyte` `jQuery` `CSS Media Query` `MongoDB` `Firebase` `Mongoose.js`
+Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `PHP`
+
+CSS Frameworks: `Bootstrap` `Tailwind`
+
+Javascript Framworks: `React.js` `Next.js` `Express.js` `jQuery`
+
+Components and UI: `Material Ui` `Styled Components` `ant design` `Flowbyte` `Daisy Ui` `Tailbits`
+
+Database: `MongoDB` `Firebase` `Mongoose` `MySQL`
+
+Comfortable:  `CSS Media Query`  
 
 Familiar with: `Redux` `Node.js` `React Native`
 
