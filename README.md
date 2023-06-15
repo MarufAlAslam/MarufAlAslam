@@ -42,7 +42,7 @@ Comfortable:  `CSS Media Query`
 
 Familiar with: `Redux` `Node.js` `React Native`
 
-Tools: `VS code` `Git, GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello Board`
+Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello` `Jira`
 
 
 <hr>
