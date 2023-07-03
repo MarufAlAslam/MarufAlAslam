@@ -30,19 +30,19 @@ Currently, I'm working as Software Engineer at Jadroo E-Commerce Limited. Beside
 
 Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `PHP`
 
-CSS Frameworks: `Bootstrap` `Tailwind`
+CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
-Javascript Framworks: `React.js` `Next.js` `Express.js` `jQuery`
+Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`
 
-Components and UI: `Material Ui` `Styled Components` `ant design` `Flowbyte` `Daisy Ui` `Tailbits`
+Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
-Database: `MongoDB` `Firebase` `Mongoose` `MySQL`
+Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
 
-Comfortable:  `CSS Media Query`  
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
 Familiar with: `Redux` `Node.js` `React Native`
 
-Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
+Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
 
 
 <hr>
