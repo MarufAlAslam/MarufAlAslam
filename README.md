@@ -28,7 +28,7 @@ Currently, I'm working as Software Engineer at Jadroo E-Commerce Limited. Beside
 
 ### 😎 Skillset :
 
-Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `PHP`
+Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `ES6` `PHP` `Dart`
 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
