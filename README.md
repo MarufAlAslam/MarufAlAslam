@@ -40,7 +40,7 @@ Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
 
 Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
-Familiar with: `Redux` `Node.js` `React Native`
+Familiar with: `Redux` `Context API` `Node.js` `React Native`
 
 Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
 
