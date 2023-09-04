@@ -58,6 +58,7 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 | 5  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
 * RWD = Responsive Web Design
+* LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
 
 <hr>
 
