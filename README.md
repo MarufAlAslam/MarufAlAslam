@@ -64,27 +64,43 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" alt="C"/>&nbsp;
-   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+
+  `FRONTEND`
+  
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" title="nextjs" alt="chatgpt"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+<img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" title="Remix" alt="Remix"/>&nbsp;
   <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" title="React" alt="React"/>&nbsp;
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+
+
+  `BACKEND`
+  
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node" alt="Node" />&nbsp;
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" title="Express" alt="Express"/>&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" title="Mongodb" alt="Mongodb"/>&nbsp;
-  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" title="Mui" alt="Mui"/>&nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
+   <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" title="Firebase" alt="Firebase"/>&nbsp;
+
+
+  `TOOLS`
+  
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" title="chatgpt" alt="chatgpt"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
+   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM" alt="NPM"/>&nbsp;
+   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" title="Vite" alt="Vite"/>&nbsp;
   <img src="https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black" title="env" alt="env"/>&nbsp;
-  
-  
+  <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" title="Mui" alt="Mui"/>&nbsp;
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" title="Nodemon" alt="Nodemon"/>&nbsp;
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" title="AntD" alt="AntD"/>&nbsp;
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" title="Chakra UI" alt="Chakra UI"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" title="C" alt="C"/>&nbsp;
+
 </div>
 <hr>
 <a href="https://drive.google.com/file/d/1i-h1LbFfnMgMk3GhFGzP2ipwkGU4JnxL/view?usp=share_link" style="text-decoration: none"  target="_blank">
