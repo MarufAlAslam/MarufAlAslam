@@ -42,6 +42,8 @@ Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuer
 
 Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
+CMS: `Wordpress Theme Customization`
+
 Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
 
 Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
