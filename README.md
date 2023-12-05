@@ -23,7 +23,7 @@
 
 ### 🐼 About Me :
 
-As a Software Engineer at Jadroo E-Commerce Limited, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+As a Web Developer at Independent Television, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
 
 My passion lies in Fullstack web development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
 
@@ -59,11 +59,12 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | Currently Working | Dhaka, Bangladesh |
-| 2  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
-| 3  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
-| 4  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
-| 5  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+| 1  | Web Developer  | Independent Television | December, 2023 | Currently Working | Dhaka, Bangladesh |
+| 2  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
+| 3  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 4  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
+| 5  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 6  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
 * RWD = Responsive Web Design
 * LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
