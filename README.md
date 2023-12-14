@@ -50,7 +50,7 @@ Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
 Familiar with: `Redux` `Context API` `Node.js` `React Native`
 
-Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
+Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `JadeWits CMS` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
 
 
 <hr>
