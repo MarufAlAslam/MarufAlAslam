@@ -59,7 +59,7 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Web Developer  | Independent Television | December, 2023 | Currently Working | Dhaka, Bangladesh |
+| 1  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
 | 2  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
 | 3  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
 | 4  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
