@@ -38,6 +38,8 @@ Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `P
 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
+PHP Framworks/Libraries: `Laravel`
+
 Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`
 
 Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
@@ -59,12 +61,13 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
-| 2  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
-| 3  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
-| 4  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
-| 5  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
-| 6  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+| 1  | Software Developer  | Taskco Digital | August, 2024 | Currently Working | Dhaka, Bangladesh |
+| 2  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
+| 3  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
+| 4  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 5  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
+| 6  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 7  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
 * RWD = Responsive Web Design
 * LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
