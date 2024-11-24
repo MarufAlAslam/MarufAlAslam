@@ -62,12 +62,13 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
 | 1  | Software Developer  | Taskco Digital | August, 2024 | Currently Working | Dhaka, Bangladesh |
-| 2  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
-| 3  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
-| 4  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
-| 5  | Associate Software Engineer  | CoreXLab Ltd. | December, 2022 | February, 2023 | Dhaka, Bangladesh |
-| 6  | Freelance Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
-| 7  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+| 2  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | Currently Working | Remote |
+| 3  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 4  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
+| 5  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | Remote |
+| 6  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
+| 7  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 8  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
 * RWD = Responsive Web Design
 * LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
