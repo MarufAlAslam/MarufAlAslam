@@ -63,7 +63,7 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
 | 1  | Software Developer  | Taskco Digital | August, 2024 | Currently Working | Dhaka, Bangladesh |
 | 2  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | Currently Working | Remote |
-| 3  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Remote |
+| 3  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Freelance |
 | 4  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
 | 5  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | Remote |
 | 6  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
