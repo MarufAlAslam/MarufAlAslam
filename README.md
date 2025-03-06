@@ -63,14 +63,15 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 
 | No | Job Title | Company Name | Start Date:| End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Software Developer  | Taskco Digital | August, 2024 | Currently Working | Dhaka, Bangladesh |
-| 2  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | Currently Working | Remote |
-| 3  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Freelance |
-| 4  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
-| 5  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | Remote |
-| 6  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
-| 7  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
-| 8  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
+| 1  | Lead Web Developer  | Bloxley Inc. | February, 2025 | Currently Working | Wilmington, USA |
+| 2  | Software Developer  | Taskco Digital | August, 2024 | March, 2025 | Dhaka, Bangladesh |
+| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | Currently Working | Remote |
+| 4  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Freelance |
+| 5  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
+| 6  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | NY, USA |
+| 7  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
+| 8  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
+| 9  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
 
 * RWD = Responsive Web Design
 * LEDP = Learning & Earning Development Project (Under ICT Ministry, Bangladesh)
