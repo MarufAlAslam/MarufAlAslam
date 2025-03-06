@@ -23,11 +23,13 @@
 
 ### 🐼 About Me :
 
-As a Web Developer at Independent Television, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the e-commerce industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+As a Lead Web Developer at Bloxley Inc., USA, I have the opportunity to work in a dynamic and challenging environment. I'm part of a team that is dedicated to creating innovative solutions for the fintech industry. My role involves collaborating with cross-functional teams to develop and maintain various software applications that enhance the company's online platform.
+
+In addition, I previously worked as a Software Developer at Taskco Digital, where I contributed to the development of cutting-edge solutions. My role at Taskco helped refine my skills in building scalable applications and further deepened my expertise in the tech industry.
 
 My passion lies in Fullstack web development, particularly using the MERN (MongoDB, Express.js, React, and Node.js) stack. I find the MERN stack to be versatile and powerful, allowing me to build robust and responsive web applications. I'm constantly honing my skills in this area, staying up-to-date with the latest trends and technologies in web development to deliver the best solutions.
 
-In addition to my full-time job, I have a thriving freelance career on Fiverr. Over the years, I have had the privilege of working with over 200 different clients and completing more than 600 projects. This freelance experience has allowed me to diversify my skill set and work on a wide range of web development projects, from simple landing pages to complex e-commerce platforms. It's been a valuable learning experience, and I'm grateful for the opportunity to collaborate with clients from around the world.
+In addition to my full-time roles, I have a thriving freelance career on Fiverr. Over the years, I have had the privilege of working with over 300 clients and completing more than 1,000 projects. This freelance experience has allowed me to diversify my skill set and work on a wide range of web development projects, from simple landing pages to complex e-commerce platforms. It's been a valuable learning experience, and I'm grateful for the opportunity to collaborate with clients from around the world.
 
 I'm always excited about the challenges and opportunities that come with software engineering and web development. Whether it's solving complex coding problems at my full-time job or taking on interesting projects as a freelancer, I am committed to delivering high-quality solutions and constantly improving my skills to stay at the forefront of the field.
 
