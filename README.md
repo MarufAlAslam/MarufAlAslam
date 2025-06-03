@@ -36,39 +36,39 @@ I'm always excited about the challenges and opportunities that come with softwar
 
 ### 😎 Skillset :
 
-Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` `Dart`
+Programming Languages: `C` `C++` `HTML` `CSS` `JavaScript` `TypeScript` `PHP` `Dart`
 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
 PHP Framworks/Libraries: `Laravel`
 
-Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`
+Javascript Framworks/Libraries: `React.js` `Next.js` `Remix` `Express.js` `jQuery`, `Astro`, `Express.js`
 
 Components and UIs: `Material Ui` `Styled Components` `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
 
-CMS: `Wordpress Theme Customization`
+CMS: `Wordpress`, `Brevo`, `Zendesk`, `Webflow`
 
 Databases: `MongoDB` `Firebase` `Mongoose` `MySQL`
 
-Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
+Comfortable:  `CSS Media Query` `Both Flexbox and Grid Systems`
 
 Familiar with: `Redux` `Context API` `Node.js` `React Native`
 
-Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `JadeWits CMS` `Express Generator` `Web Mail` `Trello` `Jira` `Teams`
+Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `NPM` `Chrome Dev Tool` `Postman` `Netlify` `JadeWits CMS` `Express Generator` `Web Mail` `Trello` `Jira` `MS Teams`
 
 
 <hr>
 
 ### 👨‍💼Experiences:
 
-| No | Job Title | Company Name | Start Date:| End Date | Location |
+| # | Job Title | Company Name | Start Date | End Date | Location |
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
-| 1  | Lead Web Developer  | Bloxley Inc. | February, 2025 | Currently Working | Wilmington, USA |
-| 2  | Software Developer  | Taskco Digital | August, 2024 | March, 2025 | Dhaka, Bangladesh |
-| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | April, 2025 | Remote |
-| 4  | Top Rated Web Developer  | Fiverr | October, 2020 | Currently Working | Freelance |
+| 1  | Lead Web Developer  | Bloxley Inc. | February, 2025 | --- | Wilmington, USA |
+| 2  | Top Rated Web Developer  | Fiverr | October, 2020 | --- | Freelance |
+| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | April, 2025 | Remote, USA |
+| 4  | Software Developer  | Taskco Digital | August, 2024 | March, 2025 | Dhaka, Bangladesh |
 | 5  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
-| 6  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | NY, USA |
+| 6  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | New York, USA |
 | 7  | Software Engineer  | Jadroo E-Commerce Ltd. | April, 2023 | November, 2023 | Dhaka, Bangladesh |
 | 8  | Software Engineer L1  | CoreXLab Ltd. | March, 2023 | April, 2023 | Dhaka, Bangladesh |
 | 9  | Trainer, RWD  | LEDP | February, 2020 | May, 2022 | Dinajpur, Bangladesh |
@@ -88,11 +88,11 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" title="JavaScript" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" title="Redux" alt="Redux"/>&nbsp;
 <img src="https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white" title="Remix" alt="Remix"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
-     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
-     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" title="jQuery" alt="jQuery"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"  title="Tailwind" alt="Tailwind CSS"/>&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"  title="Bootstrap" alt="Bootstrap"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" title="HTML5" alt="HTML"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"  title="CSS3" alt="CSS"/>&nbsp;
 
 
   `BACKEND`
