@@ -65,7 +65,7 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
 | ------------- | ------------- | ---------- | ---------- | ---------- | ---------- |
 | 1  | Lead Web Developer  | Bloxley Inc. | February, 2025 | --- | Wilmington, USA |
 | 2  | Top Rated Web Developer  | Fiverr | October, 2020 | --- | Freelance |
-| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | April, 2025 | Remote, USA |
+| 3  | Frontend & Mobile App Developer  | Azzin LLC. | September, 2024 | April, 2025 | Texas, USA |
 | 4  | Software Developer  | Taskco Digital | August, 2024 | March, 2025 | Dhaka, Bangladesh |
 | 5  | Web Developer  | Independent Television | December, 2023 | April 2024 | Dhaka, Bangladesh |
 | 6  | Frontend Developer  | SBSA Technologies LTD | January, 2024 | April, 2024 | New York, USA |
