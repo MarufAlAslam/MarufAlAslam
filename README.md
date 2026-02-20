@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img style="width: 100%; height: auto;" src="https://marufalaslam.github.io/test/git-banner.png"/>
+ <a href ="https://www.linkedin.com/in/webdevmaruff/" target="_blank">
+    <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxgnwmfwd/image/upload/v1771545758/banner_aob8ou.png"/>
+ </a>
 </div>
 
 <hr>
@@ -20,7 +22,7 @@
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=F75311&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&weight=800&size=40&pause=1000&color=36e463&background=D7FF2D00&center=true&vCenter=true&width=1000&height=100&lines=Don't+Forget+to+Click+Follow+😊)](https://github.com/MarufAlAslam)
 
 
 ### 🐼 About Me :
