@@ -1,6 +1,6 @@
 <div id="header" align="center">
- <a href ="https://www.linkedin.com/in/webdevmaruff/" target="_blank">
-    <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxgnwmfwd/image/upload/v1771613635/git-banner_safy6l.png"/>
+ <a href ="https://www.linkedin.com/in/webdevmaruf/" target="_blank">
+    <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxgnwmfwd/image/upload/v1776164411/gh-banner_cmwz2a.png"/>
  </a>
 </div>
 
