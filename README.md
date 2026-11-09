@@ -148,7 +148,7 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
    <a href="https://www.fiverr.com/webdevmaruf" style="text-decoration: none" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
    </a>
-  <a href="https://www.linkedin.com/in/marufalaslam/" style="text-decoration: none"  target="_blank">
+  <a href="https://www.linkedin.com/in/webdevmaruf/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@webdevmaruf" style="text-decoration: none"  target="_blank">
@@ -157,12 +157,5 @@ Tools: `VS code` `Git GitHub` `BitBucket` `CLI` `Terminal` `Vercel` `Browsers` `
   <a href="https://twitter.com/Maruf23350252" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.facebook.com/marufalaslam/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
- 
-   <a href="https://www.instagram.com/captain_potatoo" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Fiverr Badge"/>
-   </a>
    <br>
 </div>
